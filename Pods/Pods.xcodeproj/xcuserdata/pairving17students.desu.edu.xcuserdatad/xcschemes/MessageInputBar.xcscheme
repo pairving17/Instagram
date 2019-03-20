@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8CE7C6DEC86A0BA04C770A8C633A5286"
-               BlueprintName = "Pods-InstagramUITests"
+               BlueprintIdentifier = "716080A51E71A083C7303BC65E1342B2"
+               BlueprintName = "MessageInputBar"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "Pods-InstagramUITests.framework">
+               BuildableName = "MessageInputBar.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
